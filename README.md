@@ -11,4 +11,6 @@
 |--------------|-------------|
 <a href="https://programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/StringToNumber.java">Java</a>|
 <a href="https://programmers.co.kr/learn/courses/30/lessons/12954">x만큼 간격이 있는 n개의 숫자</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/XDistanceNNumber.java">Java</a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12950">x만큼 간격이 있는 n개의 숫자</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/MatrixSum.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12950">행렬의 덧셈</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/MatrixSum.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12948">핸드폰 번호 가리기</a>|<a href=""></a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12947">하샤드 수</a>|<a href=""></a>|
