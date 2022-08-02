@@ -14,5 +14,8 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12950">행렬의 덧셈</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/MatrixSum.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12948">핸드폰 번호 가리기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/PhoneNumber.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12947">하샤드 수</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/HarshadNumber.java">Java</a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12944">평균구하기</a>|<a href=""></a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12943">콜라츠 추측</a>|<a href=""></a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12944">평균구하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Average.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12943">콜라츠 추측</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Collatz.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12937">짝수와 홀수</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/EvenAndOdd.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12940">최대공약수와 최소공배수</a>|<a href=""></a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12935">제일 작은 수 제거하기</a>|<a href=""></a>|
