@@ -21,5 +21,5 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12935">제일 작은 수 제거하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/MinNumberRemove.java">java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12934">정수 제곱근 판별</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Checksquare_root.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12933">정수 내림차순으로 배치하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Number_desc.java">Java</a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12932">자연수 뒤집어 배열로 만들기</a>|<a href=""></a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12932">자연수 뒤집어 배열로 만들기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Number_reverse.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12931">자릿수 더하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Sum_digit.java">Java</a>|
