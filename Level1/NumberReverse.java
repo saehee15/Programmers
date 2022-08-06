@@ -1,4 +1,4 @@
-public class Number_reverse {
+public class NumberReverse {
     public int[] solution(long n) {    
         // 길이 알아내기
         String temp = n + "";

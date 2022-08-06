@@ -1,4 +1,4 @@
-public class Number_desc {
+public class NumberDesc {
     public long solution(long n) {
         long answer = 0;       
         // 길이 알아내기
