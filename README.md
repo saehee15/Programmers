@@ -26,6 +26,8 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12930">이상한 문자 만들기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/WeirdString.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12928">약수의 합</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/SumDivisor.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12926">시저 암호</a>|<a href=""></a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12925">문자열을 정수로 바꾸기</a>|<a href=""></a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12925">문자열을 정수로 바꾸기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/StringToNumber1">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12922">수박수박수박수박수박수?</a>|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12922">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12921">소수 찾기</a>|<a href=""></a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12919">서울에서 김서방 찾기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/FindKim.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12918">문자열 다루기 기본</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/StringControl.java">Java</a>|

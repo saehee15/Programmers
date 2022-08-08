@@ -1,4 +1,4 @@
-public class Sum_digit {
+public class SumDigit {
     public int solution(int n) {
         int answer = 0;
       
