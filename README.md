@@ -33,5 +33,6 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12918">문자열 다루기 기본</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/StringControl.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12917">문자열 내림차순으로 배치하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/CharacterDesc.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12916">문자열 내 p와 y의 개수</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/PAndYCount.java">Java</a>|
-<a href="">문자열 내 마음대로 정렬하기</a>|<a href="">Java</a>|
+<a href="">문자열 내 마음대로 정렬하기</a>|<a href=""></a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12912">두 정수 사이의 합</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Sum.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12910">나누어 떨어지는 숫자 배열</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Divisible.java">Java</a>|
