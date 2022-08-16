@@ -36,9 +36,10 @@
 <a href="">문자열 내 마음대로 정렬하기</a>|<a href=""></a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12912">두 정수 사이의 합</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Sum.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12910">나누어 떨어지는 숫자 배열</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Divisible.java">Java</a>|
-<a href="">같은 숫자는 싫어</a>|<a href=""></a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12903">가운데 글자 가져오기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/MiddleCharacter.java">Java</a>|
 <a href="">[1차]다트 게임</a>|<a href=""></a>|
 <a href="">[1차]비밀지도</a>|<a href=""></a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612">부족한 금액 게산하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/PriceCalculate.java">java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87389">나머지가 1이 되는 수 찾기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Division1.java">java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12901">2016년</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Years2016.java">java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644">두 개 뽑아서 더하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/TwoNumbersSum.java">java</a>|
