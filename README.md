@@ -45,3 +45,5 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644">두 개 뽑아서 더하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/TwoNumbersSum.java">java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12982">예산</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Budget.java">java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68935">3진법 뒤집기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Ternary.java">java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42862">체육복</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/GymSuit.java">java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/MockExam.java">java</a>|
