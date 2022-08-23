@@ -2,11 +2,16 @@
 <hr />
 
 ### 프로그래머스(programmers.co.kr)의 알고리즘 연습문제 풀이입니다.
-#### 주의! 클래스의 이름은 모두 Solution로 바꿔야 객체생섬됨, 나는 파일 관리를 위해 이름을 임의로 변경함   
+####  모든 문제는 Java로 풀이되었습니다.
 
 <hr />
 
-### Level1
+### Level1⭐️
+- 전체 문제 수: 56문제
+- 푼 문제: 34문제
+- 풀이 완료 시점: 9월 첫째주 예상
+
+
 |문제|코드|
 |--------------|-------------|
 <a href="https://programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/StringToNumber.java">Java</a>|
@@ -17,8 +22,8 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12944">평균구하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Average.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12943">콜라츠 추측</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Collatz.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12937">짝수와 홀수</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/EvenAndOdd.java">Java</a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12940">최대공약수와 최소공배수</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/GCDAndLCM.java">java</a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12935">제일 작은 수 제거하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/MinNumberRemove.java">java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12940">최대공약수와 최소공배수</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/GCDAndLCM.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12935">제일 작은 수 제거하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/MinNumberRemove.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12934">정수 제곱근 판별</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Checksquare_root.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12933">정수 내림차순으로 배치하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/NumberDesc.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12932">자연수 뒤집어 배열로 만들기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/NumberReverse.java">Java</a>|
@@ -39,11 +44,12 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12903">가운데 글자 가져오기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/MiddleCharacter.java">Java</a>|
 <a href="">[1차]다트 게임</a>|<a href=""></a>|
 <a href="">[1차]비밀지도</a>|<a href=""></a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612">부족한 금액 게산하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/PriceCalculate.java">java</a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/87389">나머지가 1이 되는 수 찾기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Division1.java">java</a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12901">2016년</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Years2016.java">java</a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644">두 개 뽑아서 더하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/TwoNumbersSum.java">java</a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12982">예산</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Budget.java">java</a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/68935">3진법 뒤집기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Ternary.java">java</a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42862">체육복</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/GymSuit.java">java</a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/MockExam.java">java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612">부족한 금액 게산하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/PriceCalculate.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/87389">나머지가 1이 되는 수 찾기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Division1.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12901">2016년</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Years2016.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644">두 개 뽑아서 더하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/TwoNumbersSum.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12982">예산</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Budget.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/68935">3진법 뒤집기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Ternary.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42862">체육복</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/GymSuit.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/MockExam.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576">완주하지 못한 선수</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/NotFinish.java">Java</a>|
