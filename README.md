@@ -8,7 +8,7 @@
 
 ### Level1 ⭐️
 - 전체 문제 수: 56문제
-- 푼 문제: 36문제
+- 푼 문제: 37문제
 - 풀이 완료 시점: 9월 첫째주 예상
 
 
@@ -54,3 +54,4 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/MockExam.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576">완주하지 못한 선수</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/NotFinish.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">K번째수</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/K.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/86051">없는 숫자 더하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/NoNumberSum.java">Java</a>|
