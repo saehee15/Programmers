@@ -8,7 +8,7 @@
 
 ### Level1 ⭐️
 - 전체 문제 수: 56문제
-- 푼 문제: 39문제
+- 푼 문제: 41문제
 - 풀이 완료 시점: 9월 첫째주 예상
 
 
@@ -33,7 +33,7 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12926">시저 암호</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Caesar.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12925">문자열을 정수로 바꾸기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/StringToNumber1.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12922">수박수박수박수박수박수?</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Watermelon.java">Java</a>|
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12921">소수 찾기</a>|<a href=""></a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12921">소수 찾기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Sosu.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12919">서울에서 김서방 찾기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/FindKim.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12918">문자열 다루기 기본</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/StringControl.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12917">문자열 내림차순으로 배치하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/CharacterDesc.java">Java</a>|
@@ -57,3 +57,4 @@
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70128">내적</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/MultiplySum.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/76501">음양 더하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/Sum1.java">Java</a>|
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86051">없는 숫자 더하기</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/NoNumberSum.java">Java</a>|
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/86051">같은 숫자는 싫어</a>|<a href="https://github.com/saehee15/Programmers/blob/main/Level1/SameNumberNo.java">Java</a>|
